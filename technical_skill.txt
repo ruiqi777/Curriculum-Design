@@ -1,0 +1,18 @@
+excel
+python
+r
+java
+c
+c++
+matlab
+sas
+sql 
+tableau
+hadoop
+spark
+power bi
+tensorflow
+keras
+pytorch
+theano
+caffe
