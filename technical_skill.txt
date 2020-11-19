@@ -16,3 +16,7 @@ keras
 pytorch
 theano
 caffe
+Optimization
+Satistics
+Modelling
+Database
