@@ -10,3 +10,5 @@ lead
 time management
 collaborate
 organize
+Learning
+Research
