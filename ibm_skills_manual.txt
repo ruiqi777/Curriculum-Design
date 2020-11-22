@@ -19,6 +19,7 @@ unbalanced data
 data normalization
 Linear Algebra
 machine learning
+ML
 modeling techniques
 model validation
 selection techniques
