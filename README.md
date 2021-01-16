@@ -1,4 +1,8 @@
-# mie1624-group1-project
+# MIE 1624 Group Project
+
+## MIE 1624 Curriculum Redesign
+## Master of Artifical Intelligence and Data Science Program Design
+## Student Retention according to Activity Records
 
 ## Reference
 Skills:
